@@ -1,9 +1,8 @@
-### Hi there 👋
+### Eae pessoal! Rian aqui :] 
 
-<!--
-**RianKley1/riankley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor junior de software começando minha carreira profissional. Domino tecnologias como Javascript, NodeJs, Git e Github, além de softs skills.
 
-Here are some ideas to get you started:
+LinkedIn: www.linkedin.com/in/rian-kley-b00148268 (Rian Kley) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
